@@ -1,0 +1,6 @@
+{
+  "name": "Axiom Lab — Scientific Voice Calculator",
+  "description": "Precision dark-mode scientific calculator with bilingual Hindi & English voice AI commands and multi-domain unit converter.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
